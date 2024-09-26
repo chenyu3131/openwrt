@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,rousi.zip
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
