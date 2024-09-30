@@ -5,19 +5,21 @@
       "domain": [
         "weixinsxy.com",
         "wxapp.tc.qq.com",
-        "hdsky.me",
-        "agsvpt.com",
-        "rousi.zip",
-        "kp.m-team.cc",
-        "totheglory.im",
-        "share.ilolicon.com",
-        "www.nicept.net"
+        
       ]
     },
     {
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com"
+        ".hdsky.me",
+        ".agsvpt.com",
+        ".rousi.zip",
+        ".m-team.cc",
+        "totheglory.im",
+        ".ilolicon.com",
+        ".nicept.net",
+        "chenyudehaoma.top"
       ]
     },
     {
