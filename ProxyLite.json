@@ -4,17 +4,18 @@
     {
       "domain": [
         "weixinsxy.com",
-        "wxapp.tc.qq.com",
-        "Javdb.com",
-        "keeflys.com",
-        "fsm.name"
+        "wxapp.tc.qq.com"
+        
       ]
     },
     {
       "domain_suffix": [
         ".weixinsxy.com",
         ".wxapp.tc.qq.com",
-        ".translate.googleapis.com"
+        ".translate.googleapis.com",
+        ".Javdb.com",
+        ".keeflys.com",
+        ".fsm.name"
         
       ]
     },
