@@ -1,36 +1,31 @@
-{
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com",
-        "hdsky.me",
-        "agsvpt.com",
-        "totheglory.im",
-        "share.ilolicon.com",
-        "kp.m-team.cc"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "cherrytv",
-        "cherr"
-        "rousi",
-        "nicept"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
-      ]
-    }
-  ]
-}
+rules:
+  - action: block
+    condition:
+      domain:
+        - weixinsxy.com
+        - wxapp.tc.qq.com
+        - hdsky.me
+        - agsvpt.com
+        - totheglory.im
+        - share.ilolicon.com
+        - kp.m-team.cc
+
+  - action: block
+    condition:
+      domain_suffix:
+        - .weixinsxy.com
+        - .wxapp.tc.qq.com
+
+  - action: block
+    condition:
+      domain_keyword:
+        - cherrytv
+        - cherry
+        - rousi
+        - nicept
+
+  - action: block
+    condition:
+      ip_cidr:
+        - 129.226.3.47/32
+        - 162.62.163.63/32
