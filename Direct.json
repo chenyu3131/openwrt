@@ -1,34 +1,5 @@
-{
-  "version": 1,
-  "rules": [
-    {
-      "domain": [
-        "hdsky.me",
-        "agsvpt.com",
-        "rousi.zip",
-        "kp.m-team.cc",
-        "totheglory.im",
-        "share.ilolicon.com",
-        "nicept.net"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
-      ]
-    },
-    {
-      "domain_keyword": [
-        "cherrytv",
-        "cherr"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
-      ]
-    }
-  ]
-}
+DOMAIN-SUFFIX,agsvpt.com,DIRECT
+DOMAIN-SUFFIX,rousi.zip,DIRECT
+DOMAIN-SUFFIX,hdsky.me,DIRECT 
+DOMAIN-SUFFIX,kp.m-team.cc,DIRECT
+DOMAIN-SUFFIX,totheglory.im,DIRECT
