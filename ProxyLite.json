@@ -5,20 +5,12 @@
       "domain": [
         "weixinsxy.com",
         "wxapp.tc.qq.com"
-        "services.googleapis.cn",
-        "xn--ngstr-lra8j.com"
-        
       ]
     },
     {
       "domain_suffix": [
         ".weixinsxy.com",
-        ".wxapp.tc.qq.com",
-        ".translate.googleapis.com",
-        ".Javdb.com",
-        ".keeflys.com",
-        ".fsm.name"
-        
+        ".wxapp.tc.qq.com"
       ]
     },
     {
