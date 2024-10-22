@@ -1,4 +1,5 @@
 # 自定义匹配后缀
+payload:
 DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,hdfans.org
